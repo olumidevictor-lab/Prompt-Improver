@@ -4,6 +4,8 @@ A website that turns a rough, vague prompt into a clear, structured one that AI 
 
 Live site: https://improvemyprompts.netlify.app
 
+![Prompt Improver screenshot](Screenshot%202026-11-19%20025731.png)
+
 ## How it works
 
 1. Paste what you'd normally type.
